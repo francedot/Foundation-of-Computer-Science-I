@@ -1,4 +1,0 @@
-3
-434;viale risorgimento 2, Bologna;40136
-654;via senza nome 4/c, Bologna;40100
-745;via indipendenza 1, Bologna;40120

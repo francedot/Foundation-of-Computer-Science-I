@@ -1,5 +1,0 @@
-23 12567 483.00 Saldo IMU Comune di Bologna
-23 12567 0.12 Saldo IMU Comune di Bologna
-45 12689 61.00 Multa Divieto di sosta
-23 13500 350.00 Saldo rata scuola materna
-45 13689 243.00 Bonifico riparazione macchina fotografica

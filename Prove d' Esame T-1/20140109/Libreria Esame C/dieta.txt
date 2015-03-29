@@ -1,4 +1,0 @@
-olio 40
-burro 30
-pasta 80
-formaggio 200

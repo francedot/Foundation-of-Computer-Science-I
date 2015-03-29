@@ -1,7 +1,0 @@
-pane 3
-pasta 5
-tartufo 20
-olio 10
-pannolini 7
-birra 4
-vino 15

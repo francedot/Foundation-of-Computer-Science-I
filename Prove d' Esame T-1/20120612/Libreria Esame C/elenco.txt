@@ -1,4 +1,0 @@
-Chesani;Federico Maria;11.txt 20000
-Giannelli Serbelloni;Carlo;21.txt 19000
-Mello;Paola;33.txt 30000
-Chesani; Paolo;33.txt 23000
