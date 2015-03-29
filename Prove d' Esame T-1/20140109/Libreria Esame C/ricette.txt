@@ -1,0 +1,4 @@
+pastaConCipolla pasta 100 cipolla 1000
+patateConSalsicca salsiccia 500 patate 1000 cipolla 200 burro 50 olio 50
+tomino formaggio 100 speck 50
+insalata insalata 200

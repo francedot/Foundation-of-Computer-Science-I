@@ -1,0 +1,7 @@
+RN Benzina_al_mare 185 180
+BO Da_mario_carburanti 175 170
+BO Alessandro_benzine 174 168
+Bo Federico_gas_gas 170 160
+Mo Da_MARIO_carburanti 178 170
+FC Da_Mario_Benzina_e_Piadina 160 140
+MO Col_pieno_sei_felice 160 153

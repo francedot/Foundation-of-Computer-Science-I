@@ -1,0 +1,8 @@
+Elia 9 9
+Fra 8 8
+fEDE 7 9
+Jack 2 8
+Maila 3 1
+Beth 13 7
+Ken 19 0
+Keth 19 9

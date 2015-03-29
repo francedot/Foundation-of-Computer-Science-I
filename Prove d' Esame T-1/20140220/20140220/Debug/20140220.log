@@ -1,0 +1,58 @@
+﻿Build started 01/09/2014 10:41:32.
+     1>Project "C:\Users\Francesco\Desktop\Prove d' Esame T-1\20140220\20140220\20140220.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\20140220.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\20140220.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt "..\..\..\Prove d' Esame T-1\20140220\20140220\beni.c" "..\..\..\Prove d' Esame T-1\20140220\20140220\element.c" "..\..\..\Prove d' Esame T-1\20140220\20140220\list.c" "..\..\..\Prove d' Esame T-1\20140220\20140220\main.c" "..\..\..\Prove d' Esame T-1\20140220\20140220\utility.c"
+         utility.c
+         main.c
+     1>c:\users\francesco\desktop\prove d' esame t-1\20140220\20140220\main.c(44): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\francesco\desktop\prove d' esame t-1\20140220\20140220\main.c(47): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\francesco\desktop\prove d' esame t-1\20140220\20140220\main.c(50): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+         list.c
+         element.c
+         beni.c
+     1>c:\users\francesco\desktop\prove d' esame t-1\20140220\20140220\beni.c(24): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\francesco\desktop\prove d' esame t-1\20140220\20140220\beni.c(32): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\francesco\desktop\prove d' esame t-1\20140220\20140220\beni.c(45): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\francesco\desktop\prove d' esame t-1\20140220\20140220\beni.c(210): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\francesco\desktop\prove d' esame t-1\20140220\20140220\beni.c(205): warning C4101: 'estrattiValidi' : unreferenced local variable
+         Generating Code...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\20140220.exe.embed.manifest.res" Debug\20140220_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Francesco\Desktop\Prove d' Esame T-1\20140220\Debug\20140220.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\20140220.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Francesco\Desktop\Prove d' Esame T-1\20140220\Debug\20140220.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Francesco\Desktop\Prove d' Esame T-1\20140220\Debug\20140220.lib" /MACHINE:X86 Debug\20140220.exe.embed.manifest.res
+         Debug\beni.obj
+         Debug\element.obj
+         Debug\list.obj
+         Debug\main.obj
+         Debug\utility.obj
+       Manifest:
+         Deleting file "Debug\20140220.exe.embed.manifest".
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\20140220.exe.embed.manifest" /manifest Debug\20140220.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\20140220.exe.embed.manifest.res" Debug\20140220_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Francesco\Desktop\Prove d' Esame T-1\20140220\Debug\20140220.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\20140220.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Francesco\Desktop\Prove d' Esame T-1\20140220\Debug\20140220.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Francesco\Desktop\Prove d' Esame T-1\20140220\Debug\20140220.lib" /MACHINE:X86 Debug\20140220.exe.embed.manifest.res
+         Debug\beni.obj
+         Debug\element.obj
+         Debug\list.obj
+         Debug\main.obj
+         Debug\utility.obj
+         20140220.vcxproj -> C:\Users\Francesco\Desktop\Prove d' Esame T-1\20140220\Debug\20140220.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\20140220.unsuccessfulbuild".
+         Touching "Debug\20140220.lastbuildstate".
+     1>Done Building Project "C:\Users\Francesco\Desktop\Prove d' Esame T-1\20140220\20140220\20140220.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.66

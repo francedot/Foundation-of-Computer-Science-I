@@ -1,0 +1,8 @@
+1500 macchinaFotograficaNuova N
+130 esameMedico D
+140 esameMedico D
+280 visitaDietologo D
+460 tagliandoAuto N
+50 offertaONG D
+50 acquistoOlio N
+780 bollettaRiscaldamento N

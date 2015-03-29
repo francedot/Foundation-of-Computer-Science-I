@@ -1,0 +1,14 @@
+13
+1450 Harry Potter and the Deathly Hallows;Federico Chesani;C
+1452 Song of Ice and Fire: A Game of Thrones;Federico Chesani;P
+2356 Peppa Pig: Flying a Kite and other stories;Carlo Giannelli;C
+2357 Favole Della Buonanotte;Carlo Gianneli;C
+1455 Song of Ice and Fire: A Clash of Kings;Federico Chesani;R
+1453 Song of Ice and Fire: A Storm of Swords;Federico Chesani;R
+1458 C: How to Program (6th Edition);Federico Chesani;P
+2356 Peppa Pig: Flying a Kite and other stories;Carlo Giannelli;C
+1446 Harry Potter and the Chamber of the secrets;Francesco Bonacci;P
+1445 Harry Potter and the Philosopher's stone;Francesco Bonacci;R
+1449 Harry Potter and the order of the phoenix;Francesco Bonacci;R
+1451 Harry Potter and the midblood prince;Francesco Bonacci;R
+1444 Harry Potter and the goblet of fire;Francesco Bonacci;P

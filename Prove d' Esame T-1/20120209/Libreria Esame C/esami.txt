@@ -1,0 +1,16 @@
+42 glucosio 2009
+23 glucosio 2008
+23 glicemia 2009
+46 ECG_sotto_sforzo 2008
+23 trigliceridi 2011
+42 glucosio 2012
+46 ECG_sotto_sforzo 2009
+46 ECG_sotto_sforzo 2010
+23 radiografia_torace 2012
+34 trigliceridi 2011
+46 ECG_sotto_sforzo 2011
+34 ECG_sotto_sforzo 2010
+23 ECG_sotto_sforzo 2010
+34 ECG_sotto_sforzo 2011
+46 ECG_sotto_sforzo 2012
+34 ECG_sotto_sforzo 2012
